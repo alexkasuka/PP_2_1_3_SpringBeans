@@ -1,0 +1,6 @@
+app/Application.class
+app/model/Timer.class
+app/config/AppConfig.class
+app/model/Cat.class
+app/model/AnimalsCage.class
+app/model/Animal.class
